@@ -1,4 +1,4 @@
 # chatbot-moratorium
 
 Screenshots
-![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+![Alt text](https://i.ibb.co/wJ3tSXG/chatpage.png "ChatBot Page")
